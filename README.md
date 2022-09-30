@@ -1,5 +1,26 @@
 ### Hi there 👋
-<h1> Opaa </h1>
+<html>
+  <head>
+    <style>
+        div {
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        animation-name: example;
+        animation-duration: 4s;
+        }
+
+        @keyframes example {
+        from {background-color: red;}
+        to {background-color: yellow;}
+        }
+    </style>
+   </head>
+   <body>
+    <div> </div>
+    <h1> Opaa </h1>
+    
+   </body>
 <!--
 **EduardoCezarCarvalho/EduardoCezarCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
